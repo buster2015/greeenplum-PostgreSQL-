@@ -1,1 +1,1 @@
-# greeenplum-PostgreSQL-
+# greeenplum-PostgreSQL-DAO
